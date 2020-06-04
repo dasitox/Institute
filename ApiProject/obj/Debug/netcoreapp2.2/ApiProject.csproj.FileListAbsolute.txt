@@ -1,0 +1,14 @@
+C:\Users\matias\source\repos\ApiProject\ApiProject\bin\Debug\netcoreapp2.2\ApiProject.deps.json
+C:\Users\matias\source\repos\ApiProject\ApiProject\bin\Debug\netcoreapp2.2\ApiProject.runtimeconfig.json
+C:\Users\matias\source\repos\ApiProject\ApiProject\bin\Debug\netcoreapp2.2\ApiProject.runtimeconfig.dev.json
+C:\Users\matias\source\repos\ApiProject\ApiProject\bin\Debug\netcoreapp2.2\ApiProject.dll
+C:\Users\matias\source\repos\ApiProject\ApiProject\bin\Debug\netcoreapp2.2\ApiProject.pdb
+C:\Users\matias\source\repos\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.csprojAssemblyReference.cache
+C:\Users\matias\source\repos\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.csproj.CoreCompileInputs.cache
+C:\Users\matias\source\repos\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.RazorAssemblyInfo.cache
+C:\Users\matias\source\repos\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.RazorAssemblyInfo.cs
+C:\Users\matias\source\repos\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.AssemblyInfoInputs.cache
+C:\Users\matias\source\repos\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.AssemblyInfo.cs
+C:\Users\matias\source\repos\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.RazorTargetAssemblyInfo.cache
+C:\Users\matias\source\repos\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.dll
+C:\Users\matias\source\repos\ApiProject\ApiProject\obj\Debug\netcoreapp2.2\ApiProject.pdb
